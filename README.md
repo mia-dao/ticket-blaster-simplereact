@@ -1,3 +1,1 @@
-# Simple React App Practicing React Reducer 
-
-Some simple use cases showcasing good uses of React Reducer
+# Simple React App showcasing use cases of React Reducer
